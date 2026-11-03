@@ -1,4 +1,4 @@
-# Terminator — a custom terminal + shell (CS69201 term project)
+# Terminator — a custom terminal + shell
 
 Terminator is a terminal emulator **and** shell written in C for Linux/macOS. It draws its own X11 window (Xlib only, no
 toolkit) with multiple tabs; each tab is an independent shell that runs commands with pipes, redirection, job control,
