@@ -1,0 +1,6 @@
+# Copy to ~/.terminatorrc  (or use the built-in:  bind line-start ctrl+b)
+# Format:  action = key      keys: [ctrl+][shift+][alt+]<letter|digit|left|right|up|down|home|end|tab|delete|pgup|pgdn|f1..f12>
+# An invalid key, an unknown action or a key already used by another action is reported and the default is used instead.
+line-start = ctrl+b
+kill-to-end = alt+k
+new-tab = ctrl+shift+n
